@@ -1,1 +1,4 @@
-## Écrivez votre code ici !
+## instructions 
+print("J'apprends python")
+
+17+35*2
